@@ -26,6 +26,7 @@ The skills listed here are open source, so please take the time to read through 
 - [SwiftData Skills](#swiftdata-skills)
 - [Swift Concurrency Skills](#swift-concurrency-skills)
 - [Swift Testing Skills](#swift-testing-skills)
+- [Swift Language Skills](#swift-language-skills)
 - [Accessibility Skills](#accessibility-skills)
 - [App Store Skills](#app-store-skills)
 - [Core Data Skills](#core-data-skills)
@@ -68,6 +69,11 @@ The skills listed here are open source, so please take the time to read through 
 - [Swift Testing Pro](https://github.com/twostraws/Swift-Testing-Agent-Skill) by [Paul Hudson](https://github.com/twostraws)
 - [Swift Testing Agent Skill](https://github.com/bocato/swift-testing-agent-skill) by [Eduardo Bocato](https://github.com/bocato)
 - [Swift Testing Expert](https://github.com/AvdLee/Swift-Testing-Agent-Skill) by [Antoine van der Lee](https://github.com/AvdLee)
+
+
+### Swift Testing Skills
+
+- [Swift API Design Guidelines Agent Skill](https://github.com/Erikote04/Swift-API-Design-Guidelines-Agent-Skill) by [Erik Sebastián de Erice](https://github.com/Erikote04)
 
 
 ### Accessibility Skills
