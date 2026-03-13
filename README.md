@@ -28,6 +28,7 @@ The skills listed here are open source, so please take the time to read through 
 - [Swift Testing Skills](#swift-testing-skills)
 - [Swift Language Skills](#swift-language-skills)
 - [Accessibility Skills](#accessibility-skills)
+- [Apple Security Skills](#apple-security-skills)
 - [App Store Skills](#app-store-skills)
 - [Core Data Skills](#core-data-skills)
 - [Performance Skills](#performance-skills)
@@ -81,6 +82,11 @@ The skills listed here are open source, so please take the time to read through 
 - [iOS Accessibility Agent Skill](https://github.com/dadederk/iOS-Accessibility-Agent-Skill) by [Daniel Devesa](https://github.com/dadederk)
 - [Swift Accessibility Skill](https://github.com/PasqualeVittoriosi/swift-accessibility-skill) by [Pasquale Vittoriosi](https://github.com/PasqualeVittoriosi)
 - [Apple Accessibility Skills](https://github.com/rgmez/apple-accessibility-skills) by [Roberto Gómez Muñoz](https://github.com/rgmez)
+
+
+### Apple Security Skills
+
+- [Swift Security Expert](https://github.com/ivan-magda/swift-security-skill) by [Ivan Magda](https://github.com/ivan-magda)
 
 
 ### App Store Skills
